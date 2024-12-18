@@ -1,0 +1,3 @@
+[submodule "subsub"]
+	path = subsub
+	url = https://github.com/zehongyang/subsub.git
